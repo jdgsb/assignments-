@@ -184,4 +184,59 @@ cat: code/snippets: No such file or directory
 ~                                                                                                    ⍉
 ▶ 
 
+~/bloc_assign  master ✗                                                                         6m ✖  
+▶ cd
+cd                 cd-fix-profile     cdpath             cdrecord                            
+cd-create-profile  cd-iccdump         CDPATH                                               
+
+~/bloc_assign  master ✗                                                                         6m ✖  
+▶ ls -git commit -
+--all                 -a  -- list entries starting with .                                            
+--almost-all          -A  -- list all except . and ..                                                
+--author                  -- print the author of each file                                           
+--block-size              -- specify block size                                                      
+-c                        -- status change time                                                      
+--classify            -F  -- append file type indicators                                             
+--dereference         -L  -- list referenced file for sym link                                       
+--directory           -d  -- list directory entries instead of contents                              
+--dired               -D  -- generate output designed for Emacs' dired mode                          
+--escape              -b  -- print octal escapes for control characters                              
+-f                        -- unsorted, all, short list                                               
+--file-type           -p  -- append file type indicators except *                                    
+--full-time               -- list both full date and full time                                       
+--help                    -- display help information                                                
+--hide-control-chars  -q  -- hide control chars                                                      
+--human-readable      -h  -- print sizes in human readable form                                      
+--ignore              -I  -- don't list entire matching pattern                                      
+--ignore-backups      -B  -- don't list entries ending with ~                                        
+--kilobytes           -k  -- use block size of 1k                                                    
+--literal             -N  -- print raw characters                                                    
+--no-group            -G  -- inhibit display of group information                                    
+--numeric-uid-gid     -n  -- numeric uid, gid                                                        
+-o                        -- no group, long                                                          
+--quote-name          -Q  -- quote names                                                             
+--recursive           -R  -- list subdirectories recursively                                         
+--reverse             -r  -- reverse sort order                                                      
+--si                  -H  -- sizes in human readable form; powers of 1000                            
+--size                -s  -- display size of each file in blocks                                     
+--tabsize             -T  -- specify tab size                                                        
+--time                    -- specify time to show                                                    
+--time-style              -- show times using specified style                                        
+-u                        -- access time                                                             
+--version                 -- display version information                                             
+--width               -w  -- specify screen width                                                    
+--dereference-command-line                        --quoting-style                                 
+--dereference-command-line-symlink-to-dir         --show-control-chars                            
+--indicator-style                                                                                 
+~/bloc_assign  master ✗                                                                        9m ✖  ⍉
+▶ ..
+
+~                                                                                                     
+▶ ...
+
+/                                                                                                     
+▶ ~
+
+~                                                                                                     
+▶ 
 '''
